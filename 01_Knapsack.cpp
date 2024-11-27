@@ -1,4 +1,5 @@
-#include <bits/stdc++.h> using namespace std;
+#include <bits/stdc++.h> 
+using namespace std;
 const int MAX_N = 1000;
 const int MAX_W = 1000;
 long long dp[MAX_N][MAX_W];
